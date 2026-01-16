@@ -13,10 +13,31 @@
 - 📧: redwanurr73@gmail.com
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/redwanur-rahman-abc555/" target="blank"><img align="center" src="https://github.com/Redwanurr73/Redwanurr73/blob/main/linkedin_icon.png" alt="redwanur rahman" height="40" width="40" /></a> <a href="https://www.facebook.com/redwan.rahman.9279/" target="blank"><img align="center" src="https://https://github.com/Redwanurr73/Redwanurr73/blob/main/facebook_icon.png" alt="Redwan Rahman" height="40" width="40" /> <a href="https://instagram.com/_red._.wan_" target="blank"><img align="center" src="https://https://github.com/Redwanurr73/Redwanurr73/blob/main/linkedin_icon.png" alt="_red._.wan_" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/redwanur-rahman-abc555/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/Redwanurr73/Redwanurr73/main/linkedin_icon.png"
+         alt="LinkedIn"
+         width="40" height="40"/>
+  </a>
+
+  <a href="https://www.facebook.com/redwan.rahman.9279/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/Redwanurr73/Redwanurr73/main/facebook_icon.png"
+         alt="Facebook"
+         width="40" height="40"/>
+  </a>
+
+  <a href="https://instagram.com/_red._.wan_" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/Redwanurr73/Redwanurr73/main/instagram_icon.png"
+         alt="Instagram"
+         width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
