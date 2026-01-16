@@ -12,9 +12,10 @@
 - Open for research/collaborations
 - 📧: redwanurr73@gmail.com
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/redwanur-rahman-abc555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redwanur rahman" height="30" width="40" /></a> <a href="https://www.facebook.com/redwan.rahman.9279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Redwan Rahman" height="30" width="40" /> <a href="https://instagram.com/_red._.wan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_red._.wan_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/redwanur-rahman-abc555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redwanur rahman" height="30" width="40" /></a> <a href="https://www.facebook.com/redwan.rahman.9279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/feacebook.svg" alt="Redwan Rahman" height="30" width="40" /> <a href="https://instagram.com/_red._.wan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_red._.wan_" height="30" width="40" /></a>
 </p>
 
 
