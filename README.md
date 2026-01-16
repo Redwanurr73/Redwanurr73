@@ -1,4 +1,4 @@
-![banner](https://github.com/Redwanurr73/Redwanurr73/blob/main/Redwanurr73_Banner.jpg)
+![banner](https://github.com/Redwanurr73/Redwanurr73/blob/main/Eta_Banner.jpg)
 
 <h1 align="center">Greetings, I'm Redwan ;-;</h1>
 <h3 align="center">I code</h3>
