@@ -17,45 +17,57 @@
 <a href="https://www.linkedin.com/in/redwanur-rahman-abc555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redwanur rahman" height="30" width="40" /></a> <a href="https://www.facebook.com/redwan.rahman.9279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Redwan Rahman" height="30" width="40" /> <a href="https://instagram.com/_red._.wan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_red._.wan_" height="30" width="40" /></a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
+
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   </a>
+
   <a href="https://n8n.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"
          width="40" height="40"
-         style="background-color:white; padding:4px; border-radius:6px;"/>
+         style="background:#ffffff; padding:6px; border-radius:8px;"/>
   </a>
+
   <a href="https://huggingface.co" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg"
          width="40" height="40"
-         style="background-color:white; padding:4px; border-radius:6px;"/>
+         style="background:#FFD21E; padding:6px; border-radius:8px;"/>
   </a>
+
   <a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg"
          width="40" height="40"
-         style="background-color:white; padding:4px; border-radius:6px;"/>
+         style="background:#1877F2; padding:6px; border-radius:8px;"/>
   </a>
+
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   </a>
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   </a>
+
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
+
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
