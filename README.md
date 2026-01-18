@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/redwanur-rahman-abc555/" target="_blank">
+  <a href="https://www.linkedin.com/in/redwanur-rahman-r73" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/Redwanurr73/Redwanurr73/main/linkedin_icon.png"
          alt="LinkedIn"
